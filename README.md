@@ -47,6 +47,6 @@ For larger puzzles, the time and memory requirements increase due to the combina
 |-------------|-------------|------------------------|--------------|-----------------------------|
 | 3 |8-puzzle    |       17             |    144      |                   0.001 s       |
 | 4 |15-puzzle   |       47            |      2905789    |             40.68 s              |
-| 5 |24-puzzle   |        21          |     2056     |               0.02 s            |
+| 5 |24-puzzle   |        21          |     2053     |               0.02 s            |
 
 Using 100,000, 1000, 100 random steps respectively for each puzzle size.
