@@ -43,7 +43,7 @@ For larger puzzles, the time and memory requirements increase due to the combina
 
 ---
 ## Results
-| Puzzle Dimension |Puzzle Size | Quality (Number of Actions) | Cost (Total Actions Evaluated) | Solving Time (seconds) |
+| Puzzle Dimension |Puzzle Size | Quality (Number of Actions) | Cost (Total Actions Evaluated) | Solving Time|
 |-------------|-------------|------------------------|--------------|-----------------------------|
 | 3 |8-puzzle    |                    |          |                           |
 | 4 |15-puzzle   |                   |          |                           |
