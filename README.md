@@ -43,11 +43,11 @@ For larger puzzles, the time and memory requirements increase due to the combina
 
 ---
 ## Results
-| Puzzle Dimension |Puzzle Size | Quality (Number of Actions) | Cost (Total Actions Evaluated) | Solving Time (seconds) | Memory Usage |
-|-------------|-------------|------------------------|--------------|-----------------------------|--------------------------------|
-| 3 |8-puzzle    |                    |          |                           |                         |
-| 4 |15-puzzle   |                   |          |                           |                          |
-| 5 |24-puzzle   |                  |          |                           |                       |
-| 6 |35-puzzle   |                  |          |                          |                       |
+| Puzzle Dimension |Puzzle Size | Quality (Number of Actions) | Cost (Total Actions Evaluated) | Solving Time (seconds) |
+|-------------|-------------|------------------------|--------------|-----------------------------|
+| 3 |8-puzzle    |                    |          |                           |
+| 4 |15-puzzle   |                   |          |                           |
+| 5 |24-puzzle   |                  |          |                           |
+| 6 |35-puzzle   |                  |          |                          |
 
 Using 100,000, 1000, 1000, and 1000 random steps respectively for each puzzle size.
